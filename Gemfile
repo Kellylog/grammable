@@ -57,6 +57,8 @@ gem 'devise', '>= 3.2.4'
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+# spec
 group :development, :test do
   gem 'rspec-rails', '~> 3.0'
+  gem "factory_girl_rails", "~> 4.0"
 end

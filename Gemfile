@@ -45,6 +45,9 @@ gem 'simple_form'
 # Adding User Authentication
 gem 'devise', '>= 3.2.4'
 
+# Adding images
+gem 'carrierwave'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 

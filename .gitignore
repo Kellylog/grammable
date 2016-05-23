@@ -16,3 +16,7 @@
 /tmp
 *.sqlite3
 tmp
+*.psd
+*.pdf
+/test
+/spec
